@@ -19,4 +19,4 @@ public class Method2{
 		
 		System.out.println(multResult);
 	}
-}
+}  
