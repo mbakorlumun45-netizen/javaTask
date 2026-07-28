@@ -1,0 +1,8 @@
+public class Mudolus{
+	public static void main(String[] args){
+	
+	for(counter = 1; counter <= 3; counter++){	
+		
+	}
+	}  
+  }
